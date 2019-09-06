@@ -114,6 +114,8 @@ def changing_alan
      
 end
 
+return programmer_hash
+
 def adding_to_dennis
 	programmer_hash = 
  		{
